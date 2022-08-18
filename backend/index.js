@@ -4,7 +4,7 @@ const { MongoClient } = require("mongodb");
 
 //const url = "mongodb://localhost:27017";
 const url = "mongodb+srv://admin:M09ZUEKghfWtC3XU@cluster0.gxbtbk6.mongodb.net/";
-const dbName = "Aleander Banco de Dados";
+const dbName = "Aleander-Banco-de-Dados";
 
 // Declaração da função main()
 async function main() {
